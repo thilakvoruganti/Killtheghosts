@@ -1,0 +1,43 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h2 {
+    color: #ff3385;
+    border-bottom: 2px solid #ff8000;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #ff8000;
+    margin-left: 20px;
+}
+
+.member {
+    font-size: 24px;
+    color: #3399ff;
+    margin-top: 10px;
+}
+
+.role {
+    font-size: 16px;
+    color: #39ac73;
+    margin-left: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
